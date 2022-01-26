@@ -1,0 +1,14 @@
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\bin\Debug\netcoreapp3.1\1_ArreglosVectores_1.exe
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\bin\Debug\netcoreapp3.1\1_ArreglosVectores_1.deps.json
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\bin\Debug\netcoreapp3.1\1_ArreglosVectores_1.runtimeconfig.json
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\bin\Debug\netcoreapp3.1\1_ArreglosVectores_1.runtimeconfig.dev.json
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\bin\Debug\netcoreapp3.1\1_ArreglosVectores_1.dll
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\bin\Debug\netcoreapp3.1\1_ArreglosVectores_1.pdb
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\obj\Debug\netcoreapp3.1\1_ArreglosVectores_1.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\obj\Debug\netcoreapp3.1\1_ArreglosVectores_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\obj\Debug\netcoreapp3.1\1_ArreglosVectores_1.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\obj\Debug\netcoreapp3.1\1_ArreglosVectores_1.AssemblyInfo.cs
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\obj\Debug\netcoreapp3.1\1_ArreglosVectores_1.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\obj\Debug\netcoreapp3.1\1_ArreglosVectores_1.dll
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\obj\Debug\netcoreapp3.1\1_ArreglosVectores_1.pdb
+C:\Users\ricar\source\repos\1_ArreglosVectores_1\1_ArreglosVectores_1\obj\Debug\netcoreapp3.1\1_ArreglosVectores_1.genruntimeconfig.cache
